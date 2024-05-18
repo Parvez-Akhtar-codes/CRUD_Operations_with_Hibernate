@@ -55,6 +55,13 @@
     <artifactId>hibernate-core</artifactId>
     <version>6.5.1.Final</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/jakarta.xml.bind/jakarta.xml.bind-api -->
+<dependency>
+    <groupId>jakarta.xml.bind</groupId>
+    <artifactId>jakarta.xml.bind-api</artifactId>
+    <version>4.0.2</version>
+</dependency>
+
 
 
   </dependencies>
